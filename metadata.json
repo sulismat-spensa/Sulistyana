@@ -1,0 +1,8 @@
+{
+  "name": "Remix SMPN 1 Wonosari - Digital Kelas Pintar",
+  "description": "Learning Management System modern SMPN 1 Wonosari dengan manajemen kelas, materi interaktif, ujian daring real-time, analitik performa siswa, dan kalender akademik.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
